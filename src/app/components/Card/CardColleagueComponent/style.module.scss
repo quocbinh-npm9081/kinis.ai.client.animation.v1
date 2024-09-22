@@ -1,0 +1,5 @@
+.colleagueItem{
+  &:nth-child(even){
+    top: 100px
+  }
+}
